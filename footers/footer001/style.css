@@ -53,7 +53,6 @@ footer.top {
     border-bottom: 2px solid #3a4f6a;
     padding-bottom: 20px;
 }
-
 footer.top .links {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
